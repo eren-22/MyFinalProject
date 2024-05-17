@@ -20,3 +20,4 @@ C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\ConsoleUI\bin\D
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\ConsoleUI\bin\Debug\net8.0\Entities.pdb
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\ConsoleUI\obj\Debug\net8.0\ConsoleUI.csproj.AssemblyReference.cache
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\ConsoleUI\obj\Debug\net8.0\ConsoleUI.csproj.Up2Date
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\ConsoleUI\obj\Debug\net8.0\ConsoleUI.sourcelink.json
