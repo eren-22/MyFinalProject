@@ -16,7 +16,7 @@ namespace DataAccess.Concrete.EntityFramework
         {
             using (NorthwindContext context = new NorthwindContext())  // new()' leyerek yazdığımızda garbage collector belli bir zamanda gelirken using'de ise using bitince hemen atılır.
             {
-                var addedEntity = context.Entry(entity);
+                var addedEntity = context.Entry(entity);  // veri kaynağıyla eşleştirdik.
                 addedEntity.State = EntityState.Added;
                 context.SaveChanges();
             }
