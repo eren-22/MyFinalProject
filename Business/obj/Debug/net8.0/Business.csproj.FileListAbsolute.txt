@@ -16,3 +16,5 @@ C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Business\obj\De
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Business\bin\Debug\net8.0\Core.dll
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Business\bin\Debug\net8.0\Core.pdb

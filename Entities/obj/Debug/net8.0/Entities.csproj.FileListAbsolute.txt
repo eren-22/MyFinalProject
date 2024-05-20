@@ -10,3 +10,7 @@ C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Entities\obj\De
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
