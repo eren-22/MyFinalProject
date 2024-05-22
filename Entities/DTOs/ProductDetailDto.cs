@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Entities.DTOs
 {
+    // DTO' larda bir nevi joinleme yaptığımızı düşünebiliriz. Birlikte getirmek istediğimiz entityler için kullanırız.
     public class ProductDetailDto : IDto
     {
         public int ProductId { get; set; }
