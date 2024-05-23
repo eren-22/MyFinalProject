@@ -14,7 +14,7 @@ namespace ConsoleUI
 
             //CategoryTest();
         }
-
+        #region Kategori
         private static void CategoryTest()
         {
             CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
@@ -24,7 +24,7 @@ namespace ConsoleUI
                 Console.WriteLine(category.CategoryName);
             }
         }
-
+        #endregion
         private static void ProductTest()
         {
             ProductManager productManager = new ProductManager(new EfProductDal());
