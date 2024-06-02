@@ -77,3 +77,7 @@ C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\WebAPI\bin\Debu
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\WebAPI\bin\Debug\net8.0\Core.pdb
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\WebAPI\bin\Debug\net8.0\DataAccess.pdb
 C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\WebAPI\bin\Debug\net8.0\Entities.pdb
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.dll
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\MyFinalProject\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
