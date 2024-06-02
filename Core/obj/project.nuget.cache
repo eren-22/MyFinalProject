@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rAPIQNQuSqzyBg7g9rk+h67pyRyBanXevlr68y/5q23MvYk5gpBjApkxyBMicwJ0+aL+56SyffT/vlZ0RWfnvA==",
+  "dgSpecHash": "PjcYNK0xbdFCICC4drIg6BXF1ydMkpWPquEyr/47IWEYsz0pBMaG0TQZyRjMX0NM2/8bzJqv6Yd4ZOY2ea/Rgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\eren1\\OneDrive\\Masaüstü\\CSharpProjects\\MyFinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eren1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\eren1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\eren1\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\eren1\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\eren1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\eren1\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
